@@ -1,0 +1,47 @@
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\obj\Debug\5951071041_Vo Sy Kha.csprojAssemblyReference.cache
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\obj\Debug\5951071041_Vo Sy Kha.csproj.CoreCompileInputs.cache
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\5951071041_Vo Sy Kha.dll.config
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\5951071041_Vo Sy Kha.dll
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\5951071041_Vo Sy Kha.pdb
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\roslyn\csc.exe
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\roslyn\csc.exe.config
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\roslyn\csc.rsp
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\roslyn\csi.exe
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\roslyn\csi.rsp
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\roslyn\System.AppContext.dll
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\roslyn\vbc.exe
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\roslyn\vbc.exe.config
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\roslyn\vbc.rsp
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\roslyn\VBCSCompiler.exe
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\Newtonsoft.Json.dll
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\Swashbuckle.Core.dll
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\System.Net.Http.Formatting.dll
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\System.Web.Http.dll
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\System.Web.Http.WebHost.dll
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\WebActivatorEx.dll
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\Newtonsoft.Json.xml
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\System.Net.Http.Formatting.xml
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\System.Web.Http.xml
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\System.Web.Http.WebHost.xml
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\obj\Debug\5951071041_Vo Sy Kha.csproj.CopyComplete
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\obj\Debug\5951071041_Vo Sy Kha.dll
+C:\Users\KHA VO\source\repos\5951071041_Vo Sy Kha\5951071041_Vo Sy Kha\obj\Debug\5951071041_Vo Sy Kha.pdb
